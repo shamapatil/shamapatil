@@ -1,13 +1,14 @@
 [![MasterHead](https://www.eastwest.ngo/sites/default/files/styles/1600x400/public/ideas-image/Cyber3.jpg?itok=3pFZXU8W)](https://shamapatil.io)
 <h1 align="center">Hi 👋, I'm Shama Patil</h1>
 <h3 align="center">A passionate Data Scientist Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/9f/46/579f46545cfb1e057d9198f86adae581.jpg">
+
+<img align="right" alt="Coding" width="300" src="https://fiverr-res.cloudinary.com/image/upload/w_600/f_auto,q_auto/v1/attachments/generic_asset/asset/767bc10a0c44b0a67be1a94aea270205-1609336032121/website%20development-min.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamapatil&label=Profile%20views&color=0e75b6&style=flat" alt="shamapatil" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Data Analyst**
 
-- 💬 Ask me about **Statistics,C,C++,R Programming**
+- 💬 Ask me about **Statistics,C,C++,Python,R Programming**
 
 - 📫 How to reach me **shamapatil2000@gmail.com**
 
