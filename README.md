@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Data Scientist Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/9f/46/579f46545cfb1e057d9198f86adae581.jpg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamapatil&label=Profile%20views&color=0e75b6&style=flat" alt="shamapatil" /> </p>
+
 - 🌱 I’m currently learning **Data Science and Data Analyst**
 
 - 💬 Ask me about **Statistics,C,C++,R Programming**
