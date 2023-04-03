@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://fiverr-res.cloudinary.com/image/upload/w_600/f_auto,q_auto/v1/attachments/generic_asset/asset/767bc10a0c44b0a67be1a94aea270205-1609336032121/website%20development-min.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamapatil&label=Profile%20views&color=0e75b6&style=flat" alt="shamapatil" /> </p>
+#<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamapatil&label=Profile%20views&color=0e75b6&style=flat" alt="shamapatil" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Data Analyst**
 
