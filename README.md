@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://fiverr-res.cloudinary.com/image/upload/w_600/f_auto,q_auto/v1/attachments/generic_asset/asset/767bc10a0c44b0a67be1a94aea270205-1609336032121/website%20development-min.jpg">
 
-#<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamapatil&label=Profile%20views&color=0e75b6&style=flat" alt="shamapatil" /> </p>
-
 - 🌱 I’m currently learning **Data Science and Data Analyst**
 
 - 💬 Ask me about **Statistics,C,C++,Python,R Programming**
@@ -14,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shama patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamapatil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shama-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamapatil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
